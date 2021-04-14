@@ -1,1 +1,3 @@
-# pcgame_win_loss
+## 【SIGNATE】PCゲームの勝敗を予測するコンペに参加した内容
+
+### 
